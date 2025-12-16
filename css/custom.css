@@ -3,3 +3,16 @@
     flex-direction: column;
     gap: 16px;
 }
+
+#image-container {
+    width: 95vw;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+#photo-book-img {
+    max-width: 300px;
+}
